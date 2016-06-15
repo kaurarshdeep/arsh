@@ -1,0 +1,66 @@
+.pallete{
+	display:inline-block;
+}
+.btn {
+	height:65px;
+        width:65px;
+        margin:auto;
+        padding:10px;
+        border-radius:50%;
+        font-size:15px;
+        text-align:centre;
+       
+        -moz-animation:0.4s;
+        -moz-animation-duration: 0.4s;
+        cursor: pointer;
+        margin:30px;
+	background:white;
+	color:black;
+	border:1px solid black;
+ 
+}
+.btn:hover {
+	color:white;
+}
+
+.back{
+	background-image:url("abc.jpg");
+}
+#button1:hover {
+	background-color:blue;
+}
+#button2:hover {
+	background-color:red;
+}
+#button3:hover {
+        background-color:green;
+}		
+#button4:hover {
+        background-color:purple;
+}	 
+#button5:hover {
+        background-color:yellow;
+}
+
+#text{
+        font-size:70px;
+        display:inline-block;
+        font-style:arial;
+        margin-left:30px;
+}
+
+#container{
+        height:500px;
+        width:598px;
+        background:transparent;
+        margin-top:200px;
+        margin-left:90px;
+        display:inline-block;
+}
+.box{
+        height:20px;
+        width:20px;
+        background:transparent;
+        display:inline-block;
+	border: 1px solid black;
+}
